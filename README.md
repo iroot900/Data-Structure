@@ -5,7 +5,7 @@ This repository include my implementation of many widely used non-trivial data s
 
 >HashTable with Open addressing (Linear probe)
 
->MinHeap (delete and decrease key are supported)
+>MinHeap (decrease key are supported)
 
 >Trie
 

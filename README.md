@@ -5,7 +5,7 @@ This repository include my implementation of many widely used non-trivial data s
 
 >HashTable with Open addressing (Linear probe)
 
-For my test case, when HashTables have same number of buckets, chaining is about 2 times as faster as open addressing. But chaining takes more memory since all nodes contain a pointer to next node. That being said, if using same memory, open addresing could have twice as much buckets, and in this case, difference is very small. 
+For my test case, when HashTables have same number of buckets, chaining is about twice faster than open addressing. But chaining takes more memory since all nodes contain a pointer to next node. That being said, if using same memory, open addresing could have twice as much buckets, and in this case, difference is very small. 
 
 >MinHeap (decrease key are supported)
 

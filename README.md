@@ -9,8 +9,6 @@ For my test case, when HashTables have same number of buckets, chaining is about
 
 >MinHeap (decrease key are supported)
 
->Trie
-
 >B tree
 
 >AVL tree
